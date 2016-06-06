@@ -1,5 +1,7 @@
 <?php
 
+namespace Belajar\OOP;
+
 class Manusia
 {
     private $tangan;
